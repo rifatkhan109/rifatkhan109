@@ -6,9 +6,9 @@
 <h3 align="center">A Beginner level programmer  from Bangladesh , Asia!!🥸</h3>
      
 
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F71D35&center=true&width=500&height=60&lines=Learning+html+and+css;3%2B+years+coding+experience+....;I+am+a+Computer+Science+Engineer" alt="Typing SVG" /></a> </p>
 <img  align="left" width="50%"  src = "https://github-readme-stats.vercel.app/api?username=Rifatkhan109&show_icons=true&theme=default" />
 <img  align="left" width ="35%"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Rifatkhan109&layout=compact" />
-
 
 
  <br><br> <br><br><br><br> <br><br> 
@@ -25,21 +25,9 @@
 
 
 
-
-
-
 <p align="center" align="left"> <img src="https://komarev.com/ghpvc/?username=Rifatkhan109&label=Profile%20views&color=0e75b6&style=flat" alt="Rifatkhan109" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rifatkhan109" alt="Rifatkhan109" /></a> </p>
-
-
 <br>
-<h3 align="left">Uses Software :</h3>
-<p align="left">
-</p>
-<p align="left"> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>  </a>  </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-
-
 
 
 
