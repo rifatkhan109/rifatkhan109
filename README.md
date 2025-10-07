@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-### Hi i am  Md.Rifat khan 😎 🥰  
-🚩🔕🚭🔇🚩
+### Hi i am  Md.Rifat khan  🥰  
+
 <h1 align="center"> Welcome To My Profile🎉 </h1>
 <h3 align="center">A Beginner level programmer  from Bangladesh , Asia!!🥸</h3>
      
