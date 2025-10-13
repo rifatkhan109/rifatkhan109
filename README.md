@@ -6,7 +6,7 @@
 <h3 align="center">A Beginner level programmer  from Bangladesh , Asia!!🥸</h3>
      
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F71D35&center=true&width=500&height=60&lines=Learning+html+and+css;3%2B+years+coding+experience+....;I+am+a+Computer+Science+Engineer" alt="Typing SVG" /></a> </p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F71D35&center=true&width=500&height=60&lines=Learning+web +development;3%2B+years+coding+experience+....;I+am+a+Computer+Science+Engineer" alt="Typing SVG" /></a> </p>
 <h2>## 📈GitHub Stats</h2>
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rifatkhan109&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
