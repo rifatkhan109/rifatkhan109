@@ -15,11 +15,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifatkhan109&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
 </p> 
 <p align="center" align="left" > <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=rifatkhan109&" alt="rifatkhan109" /> 
-<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><\p>
+<p align="left"> <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/js.png" alt="js"/>
 
 
 <p align="center" align="left"> <img src="https://komarev.com/ghpvc/?username=Rifatkhan109&label=Profile%20views&color=0e75b6&style=flat" alt="Rifatkhan109" /> </p>
