@@ -14,7 +14,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rifatkhan109&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifatkhan109&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
 </p> 
-<p align="center" align="left" > <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=rifatkhan109&" alt="rifatkhan109" /> </p>
+<p align="center" align="left" > <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=rifatkhan109&" alt="rifatkhan109" /> 
+<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
 
 
 <h3 align="left">Languages and Tools:</h3>
